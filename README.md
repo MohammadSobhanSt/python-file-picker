@@ -5,7 +5,7 @@ A simple Bash script to run Python files from your current directory. Shows an i
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/better-python-picker.git
+git clone https://github.com/MohammadSobhanSt/python-file-picker.git
 cd python-file-picker
 ```
 
