@@ -12,7 +12,7 @@ cd python-file-picker
 ## Usage
 
 ```bash
-./python-file-picker.sh
+bash python-file-picker.sh
 ```
 
 ## Create Alias (Optional)
